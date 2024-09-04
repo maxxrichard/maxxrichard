@@ -18,9 +18,9 @@ I am a Scientific Researcher at the **German Research Center for Artificial Inte
 
 My current projects involve applying these methodologies to areas such as doping detection in sports, healthcare analytics, and quantum machine learning. By combining theoretical advancements with practical applications, I aim to contribute to the development of data-driven solutions that address complex challenges in these fields.  
 
-[![Email](https://img.shields.io/badge/Email-%20-gold)](mailto:maxx_richard.rahman@dfki.de)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/maxx-richard-rahman-aa993b163/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace%20-blue)](https://huggingface.co/maxxrichard)
+[![Email](https://img.shields.io/badge/Email-%20-gold)](mailto:maxx_richard.rahman@dfki.de)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-%20-blue)](https://huggingface.co/maxxrichard)
 [![Resume](https://img.shields.io/badge/Resume%2FCV-%20-brightgreen)](https://drive.google.com/file/d/1WjxNzMZVllYUh8cI3_8IE4th31ZtBIo4/view?usp=sharing)
 
 
