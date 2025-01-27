@@ -23,7 +23,7 @@ My current projects involve applying these methodologies to areas such as doping
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-%20-red)](https://scholar.google.com/citations?user=jCgOEcIAAAAJ&hl=en)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-%20-blue)](https://huggingface.co/maxxrichard)
 [![Resume](https://img.shields.io/badge/Resume%2FCV-%20-brightgreen)](https://6f729f49-8cfc-414d-a420-d9c4f5eab920.filesusr.com/ugd/ce1105_45f3dd70b7f841b09a6e8bd30537d41c.pdf)
-[![Website](https://img.shields.io/badge/Website-%20-yellow)](https://www.maxxrichard.com)
+[![Website](https://img.shields.io/badge/Website-%20-yellow)](https://maxxrichard.com)
 
 
 
