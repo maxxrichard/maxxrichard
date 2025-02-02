@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 
 ## About Me
-I am AI Research Scientist at the **German Research Center for Artificial Intelligence (DFKI)** and PhD Researcher at **Saarland University**, Germany. My research focuses on developing advanced machine learning techniques, specifically in spatio-temporal analysis, multivariate sequential learning, and longitudinal analysis. I am working on designing robust methods for anomaly detection and investigating the capabilities of foundation models, including **Large Language Models**, to enhance their application across various domains.
+I am Research Scientist (AI) at the **German Research Center for Artificial Intelligence (DFKI)** and PhD Researcher at **Saarland University**, Germany. My research focuses on developing advanced machine learning techniques, specifically in structural-temporal analysis, multivariate sequential learning, and longitudinal analysis. I am working on designing robust methods for anomaly detection and investigating the capabilities of **Large Language Models**, to improve their application across various domains.
 
-My current projects involve applying these methodologies to areas such as doping detection in sports, healthcare analytics, and quantum machine learning. By combining theoretical advancements with practical applications, I aim to contribute to the development of data-driven solutions that address complex challenges in these fields.  
+My current projects involve applying these methodologies to areas such as doping detection in sports and healthcare analytics. By combining theoretical advancements with practical applications, I aim to contribute to the development of data-driven solutions that address complex challenges in these fields.  
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%20-green)](https://www.linkedin.com/in/maxxrichardrahman/)
 [![Email](https://img.shields.io/badge/Email-%20-gold)](mailto:maxx_richard.rahman@dfki.de)
