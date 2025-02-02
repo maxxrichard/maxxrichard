@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 
 ## About Me
+"*Physicist turned into Computer Scientist*"
+
 I am Research Scientist (AI) at the **German Research Center for Artificial Intelligence (DFKI)** and PhD Researcher at **Saarland University**, Germany. My research focuses on developing advanced machine learning techniques, specifically in structural-temporal analysis, multivariate sequential learning, and longitudinal analysis. I am working on designing robust methods for **anomaly detection** and investigating the capabilities of **Large Language Models**, to improve their application across various domains.
 
 My current projects involve applying these methodologies to areas such as doping detection in sports and healthcare analytics. By combining theoretical advancements with practical applications, I aim to contribute to the development of data-driven solutions that address complex challenges in these fields.  
